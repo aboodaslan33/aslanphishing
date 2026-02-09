@@ -64,21 +64,13 @@ clear_terminal() {
 
 big_welcome() {
 
-    echo -e "${RED} __    __    ___  _        __   ___   ___ ___    ___      __ __   ____    __  __  _    ___  ____  ${NC}"
-
-    echo -e "${RED}|  |__|  |  /  _]| |      /  ] /   \ |   |   |  /  _]    |  |  | /    |  /  ]|  |/ ]  /  _]|    \ ${NC}"
-
-    echo -e "${RED}|  |  |  | /  [_ | |     /  / |     || _   _ | /  [_     |  |  ||  o  | /  / |  ' /  /  [_ |  D  )${NC}"
-
-    echo -e "${RED}|  |  |  ||    _]| |___ /  /  |  O  ||  \_/  ||    _]    |  _  ||     |/  /  |    \ |    _]|    / ${NC}"
-
-    echo -e "${RED}|  \`  ' ||   [_ |     /   \_ |     ||   |   ||   [_     |  |  ||  _  /   \_ |     ||   [_ |    \ ${NC}"
-
-    echo -e "${RED} \      / |     ||     \     ||     ||   |   ||     |    |  |  ||  |  \     ||  .  ||     ||  .  \${NC}"
-
-    echo -e "${RED}  \_/\_/  |_____||_____|\____| \___/ |___|___||_____|    |__|__||__|__|\____||__|\_||_____||__|\_${NC}"
-
-    return
+    echo -e "${BLUE}    ___   _____ _       ___   _   _   ___   _   _  "
+echo -e "${BLUE}   / _ \ /  ___| |     / _ \ | \ | | / _ \ | \ | | "
+echo -e "${BLUE}  / /_\ \\ `--.| |    / /_\ \|  \| |/ /_\ \|  \| | "
+echo -e "${BLUE}  |  _  |`--. \| |    |  _  || . ` ||  _  || . ` | "
+echo -e "${BLUE}  | | | /\__/ /| |____| | | || |\  || | | || |\  | "
+echo -e "${BLUE}  \_| |_/\____/ \_____/\_| |_/\_| \_/\_| |_/\_| \_| "
+echo -e "${NC}"
 
 }
 
@@ -110,11 +102,6 @@ sleep 3
 
 
 
-# Medusa Phisher
-
-# Author: Adrilaw
-
-# GitHub: github.com/Adrilaw
 
 
 
@@ -248,21 +235,14 @@ menu() {
 
 
 # ASCII art for "Medusa"
-
-echo -e "\e[1;94m"
-
-echo "                          __  __          _                   ____  _     _     _  "
-
-echo "                         |  \/  | ___  __| |_   _ ___  __ _  |  _ \| |__ (_)___| |__   ___ _ __  "
-
-echo "                         | |\/| |/ _ \/ _\`| | | / __|/ _\`| | |_) | '_ \| / __| '_ \ / _ \ '__| "
-
-echo "                         | |  | |  __/ (_| | |_| \__ \ (_| | |  __/| | | | \__ \ | | |  __/ |  "  
-
-echo "                         |_|  |_|\___|\__,_|\__,_|___/\__,_| |_|   |_| |_|_|___/_| |_|\___|_|  CODED BY: Adrilaw Github: https://github.com/Adrilaw"
-
-echo -e "\e[1;33m"
-
+echo -e "\e[1;97m"
+echo "    █████╗ ███████╗██╗      █████╗ ███╗   ██╗"
+echo "   ██╔══██╗██╔════╝██║     ██╔══██╗████╗  ██║"
+echo "   ███████║███████╗██║     ███████║██╔██╗ ██║"
+echo "   ██╔══██║╚════██║██║     ██╔══██║██║╚██╗██║"
+echo "   ██║  ██║███████║███████╗██║  ██║██║ ╚████║"
+echo "   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝"
+echo -e "\e[1;96m        ASLAN PHISHING - AWARENESS DEMO\e[0m"
 
 
 # Print menu options
@@ -302,8 +282,7 @@ printf "\e[1;92m[\e[0m\e[1;77m16\e[0m\e[1;92m]\e[0m\e[1;91m Microsoft\e[0m      
 
 
 # Add the coded by line
-
-printf "                                                \e[1;94m CODED BY: @Adrilaw  CREDIT TO FOR SITES TEMPLETE: https://github.com/8L4NK/blackeye/\e[0m\n"
+printf "                                                \e[1;94m CODED BY: @Adrilaw | CREDIT: https://github.com/8L4NK/blackeye/ | MODIFIED BY: Abood Aslan | GitHub: https://github.com/aboodaslan33\e[0m\n"
 
 
 
@@ -622,53 +601,32 @@ stop() {
 
 
 
-
-banner() {
-
-    printf "\n"
-
-    printf "\e[1;93m#############################################\e[0m\n"
-
-    printf "\e[1;93m#             BE ETHICAL                    #\e[0m\n"
-
-    printf "\e[1;93m#                                           #\e[0m\n"
-
-    printf "\e[1;93m#                                           #\e[0m\n"
-
-    printf "\e[1;93m#            :) :) :) :) :) :) :)           #\e[0m\n"
-
-    printf "\e[1;93m#                                           #\e[0m\n"
-
-    printf "\e[1;93m#     With great power comes great          #\e[0m\n"
-
-    printf "\e[1;93m#          responsibility                   #\e[0m\n"
-
-    printf "\e[1;93m#                                           #\e[0m\n"
-
-    printf "\e[1;93m#             .--.                          #\e[0m\n"
-
-    printf "\e[1;93m#            |o_o |                         #\e[0m\n"
-
-    printf "\e[1;93m#            |:_/ |                         #\e[0m\n"
-
-    printf "\e[1;93m#           //   \ \                        #\e[0m\n"
-
-    printf "\e[1;93m#          (|     | )                       #\e[0m\n"
-
-    printf "\e[1;93m#         /'\_   _/ \                       #\e[0m\n"
-
-    printf "\e[1;93m#         \___)=(___/                       #\e[0m\n"
-
-    printf "\e[1;93m#                                           #\e[0m\n"
-
-    printf "\e[1;93m#  I'M NOT RESPONSIBLE FOR MISUSE OF SCRIPT #\e[0m\n"
-
-    printf "\e[1;93m#                                           #\e[0m\n"
-
-    printf "\e[1;93m#############################################\e[0m\n"
+  banner() {
 
     printf "\n"
 
+    # Frame
+    printf "\e[1;93m============================================================\e[0m\n"
+
+    # Title
+    printf "\e[1;91m   █████╗ ███████╗██╗      █████╗ ███╗   ██╗               \e[0m\n"
+    printf "\e[1;91m  ██╔══██╗██╔════╝██║     ██╔══██╗████╗  ██║               \e[0m\n"
+    printf "\e[1;91m  ███████║███████╗██║     ███████║██╔██╗ ██║               \e[0m\n"
+    printf "\e[1;91m  ██╔══██║╚════██║██║     ██╔══██║██║╚██╗██║               \e[0m\n"
+    printf "\e[1;91m  ██║  ██║███████║███████╗██║  ██║██║ ╚████║               \e[0m\n"
+    printf "\e[1;91m  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝               \e[0m\n"
+
+    # Subtitle
+    printf "\e[1;93m------------------------------------------------------------\e[0m\n"
+    printf "\e[1;91m              ASLAN PHISHING – AWARENESS DEMO               \e[0m\n"
+    printf "\e[1;93m------------------------------------------------------------\e[0m\n"
+
+    # Disclaimer
+    printf "\e[1;93m  Think Before You Click                                     \e[0m\n"
+    printf "\e[1;93m  For Educational & Cybersecurity Awareness Only             \e[0m\n"
+
+    printf "\e[1;93m============================================================\e[0m\n"
+    printf "\n"
 }
 
 

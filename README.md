@@ -1,71 +1,103 @@
-# Medusa Phisher v1.3
-Medusa Phisher is a phishing tool script designed to create phishing pages for various online services. It allows users to set up phishing pages for services like Instagram, Facebook, Twitter, and more. The script facilitates hosting these phishing pages using localhost.run for tunnelling, making it easy to capture user credentials.
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4bdc1c9b-497b-4094-9074-b291071341ca" />
+# ASLAN PHISHING – Awareness Demo
 
-# Features
-1. Create phishing pages for multiple online services.
+ASLAN PHISHING is a **cybersecurity awareness demonstration project** created to help students and learners understand how phishing attacks work, how to recognize them, and how to protect themselves.
 
-2. Host phishing pages using localhost.run for easy access.
+⚠️ **This project is intended strictly for educational and awareness purposes only.**
 
-3. Customizable phishing page creation for a tailored approach.
+---
 
-4. Catch credentials entered into phishing pages for analysis.
+## 🎯 Purpose
 
-5. Add option to choose either to use default port or custom.
+The goal of this project is to support cybersecurity education and awareness by demonstrating:
+- How phishing pages may look
+- Common social engineering techniques
+- Warning signs of phishing attempts
+- Safe behavior when dealing with suspicious links and websites
 
-6. The generated phishing link will be displayed, along with its QR code for easy access.
+This project should only be used in **authorized, controlled, and educational environments**.
 
-# Dependencies
-• PHP: Required for hosting the phishing pages locally.
+---
 
-• SSH: Necessary for creating SSH tunnels using localhost.run.
+## 🔧 Project Background & Modifications
 
-• XTERM: Necessary to generate link and QR code.
+This repository is a **modified fork** of an existing open-source project.
 
-• Note: `setup.sh` installs those dependencies for you
+### Modifications in this fork:
+- Rebranding to **ASLAN PHISHING – Awareness Demo**
+- Simplified and cleaned interface for teaching purposes
+- Updated banner and visual output
+- Documentation rewritten to clearly state educational intent
+- Removal of unnecessary options (example: Yandex)
+- Main script renamed to `aslan_phishing.sh`
 
-# Supported Environment
-## • Kali Linux
+For full attribution and legal details, see **NOTICE.md**.
 
-## • Parrot security os
+---
 
-## • Debian
+## 🧩 Dependencies
 
-## • Ubuntu
+- **PHP** – for local hosting
+- **SSH** – for tunneling demonstrations
+- **XTERM** – for terminal display support
 
-## • Arch
+> `setup.sh` installs all required dependencies automatically.
 
-# Usage
+---
 
-1. Clone the repository: `git clone https://github.com/Adrilaw/MedusaPhisher.git`
-2. Navigate to the script directory: `cd MedusaPhisher`
-3. Ensure all dependencies are installed and configured (see Dependencies section).
-4. Grants execution permissions to medusa_phisher script: `chmod +x  medusa_phisher.sh`
-5. Grants execution permissions to setup script: `chmod +x  setup.sh`
-6. The script installs the required dependencies for running the Medusa Phisher script: `sudo ./setup.sh`
-7. Run the script: `sudo ./medusa_phisher.sh`
-8. Follow the on-screen menu to select a phishing target and start the phishing process. NOTE:The link is generated in the xterm terminal with a QR code too.
+## 🖥 Supported Environments
 
-# Demo
+- Kali Linux  
+- Parrot Security OS  
+- Debian  
+- Ubuntu  
+- Arch Linux  
 
-https://github.com/user-attachments/assets/43fcf6f2-987a-4f8c-91da-56efaff2258f
+---
 
+## 📘 Educational Use Only
 
+- ✅ Use only for cybersecurity training and awareness
+- ❌ Do NOT use for illegal activity
+- ❌ Do NOT target real users without explicit permission
+- ❌ Do NOT deploy in uncontrolled environments
 
+This project exists to **teach defense, not to enable abuse**.
 
+---
 
+## 👤 Credits & Attribution
 
+### Original Project
+- **Project:** MedusaPhisher  
+- **Original Author:** Adrilaw  
+- **GitHub:** https://github.com/Adrilaw  
 
+Additional credit referenced by the original project:
+- Kidpentester @ xda-developers
 
+### Maintainer of This Fork
+- **Abood Aslan**
+- GitHub: https://github.com/aboodaslan33  
+- Project Name: **ASLAN PHISHING – Awareness Demo**
 
-# Disclaimer
-This script is intended for educational purposes only. The misuse of this tool for illegal activities is strictly prohibited. The author assumes no responsibility for any misuse of this script.
+---
 
-# Author
-Adrilaw @ GitHub
+## 📜 License
 
-Kidpentester @ xda-developers
+This project remains licensed under the original licenses:
+- **GNU General Public License v3 (GPLv3)** — see `LICENSE`
+- **Commercial License Terms** — see `C-LICENSE`
 
-# License
-MedusaPhisher is licensed under the [GNU General Public License](LICENSE) and the [MedusaPhisher Commercial License](C-LICENSE)- see the LICENSE file for details.
+All modifications in this fork comply with the same licensing terms.
 
+---
+
+## ⚠️ Disclaimer
+
+This software is provided **for educational and cybersecurity awareness purposes only**.  
+The maintainer and original author assume **no responsibility** for misuse.
+
+---
+
+## 🛡️ Think Before You Click
+Stay aware. Stay safe.
