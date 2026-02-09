@@ -63,8 +63,12 @@ For full attribution and legal details, see **NOTICE.md**.
 
 This project exists to **teach defense, not to enable abuse**.
 
----
-<img width="451" height="56" alt="image" src="https://github.com/user-attachments/assets/2a6f1a4a-fe4f-4fb3-8c28-3aee30d7b155" />
+--##RUN TOOL 
+1-
+<img width="594" height="156" alt="image" src="https://github.com/user-attachments/assets/0ff5dbd9-6ce5-4819-8740-9ba09beae289" />
+2-
+<img width="359" height="70" alt="image" src="https://github.com/user-attachments/assets/277797e9-2c9d-4046-85e0-2660056b50b0" />
+3-
 <img width="451" height="56" alt="image" src="https://github.com/user-attachments/assets/2a6f1a4a-fe4f-4fb3-8c28-3aee30d7b155" />
 
 ## 👤 Credits & Attribution
