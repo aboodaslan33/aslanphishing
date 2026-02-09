@@ -66,28 +66,58 @@ This project exists to **teach defense, not to enable abuse**.
 
 
 ---
+## Installation
+
+```bash
+git clone https://github.com/aboodaslan33/aslanphishing.git
+cd aslanphishing
+chmod +x setup.sh
+./setup.sh
 
 
 ## 📘 RUN TOOL
-
+chmod +x aslan_phishing.sh
+./aslan_phishing.sh
 
 
 1-
 
 
 
+
 <img width="594" height="156" alt="image" src="https://github.com/user-attachments/assets/0ff5dbd9-6ce5-4819-8740-9ba09beae289" />
+
+
+
+
+
 2-
 
 
 
 <img width="359" height="70" alt="image" src="https://github.com/user-attachments/assets/277797e9-2c9d-4046-85e0-2660056b50b0" />
+
+
+
+
+
 3-
 
 
 
 
 <img width="451" height="56" alt="image" src="https://github.com/user-attachments/assets/2a6f1a4a-fe4f-4fb3-8c28-3aee30d7b155" />
+
+
+
+## Requirements
+- Kali Linux / Debian
+- python3
+- php
+
+## Stop
+Press CTRL + C
+
 
 ## 👤 Credits & Attribution
 
