@@ -79,43 +79,16 @@ chmod +x setup.sh
 chmod +x aslan_phishing.sh
 ./aslan_phishing.sh
 
+## 📸 Screenshots
 
-1-
+### 📁 Change Directory
+![cd](cd.png)
 
+### ⚙️ Installation
+![ins](ins.png)
 
-
-
-
-
-
-
-<img width="451" height="56" alt="Screenshot 2026-02-09 153754" src="https://github.com/user-attachments/assets/99c932b4-7627-4112-8bf2-5a8669ab0557" />
-
-
-
-
-
-
-
-
-2-
-
-
-
-<img width="359" height="70" alt="image" src="https://github.com/user-attachments/assets/277797e9-2c9d-4046-85e0-2660056b50b0" />
-
-
-
-
-
-3-
-
-
-
-
-<img width="451" height="56" alt="image" src="https://github.com/user-attachments/assets/2a6f1a4a-fe4f-4fb3-8c28-3aee30d7b155" />
-
-
+### ▶️ Run Tool
+![run](run.png)
 
 ## Requirements
 - Kali Linux / Debian
