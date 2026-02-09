@@ -77,10 +77,7 @@ chmod +x setup.sh
 
 ## 📘 RUN TOOL
 chmod +x aslan_phishing.sh
-./aslan_phishing.sh
-
-## 1
-<img width="438" height="86" alt="image" src="https://github.com/user-attachments/assets/925dd8b0-1fa6-449e-b043-5273df4128d1" />
+bash ./aslan_phishing.sh
 
 
 
