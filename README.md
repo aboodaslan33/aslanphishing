@@ -85,7 +85,14 @@ chmod +x aslan_phishing.sh
 
 
 
-<img width="594" height="156" alt="image" src="https://github.com/user-attachments/assets/0ff5dbd9-6ce5-4819-8740-9ba09beae289" />
+
+
+
+
+<img width="451" height="56" alt="Screenshot 2026-02-09 153754" src="https://github.com/user-attachments/assets/99c932b4-7627-4112-8bf2-5a8669ab0557" />
+
+
+
 
 
 
