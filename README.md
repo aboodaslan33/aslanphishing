@@ -79,7 +79,9 @@ chmod +x setup.sh
 chmod +x aslan_phishing.sh
 ./aslan_phishing.sh
 
+
 ## 📸 Screenshots
+
 ### 📁 Change Directory
 
 ![cd](cd.png)
@@ -91,6 +93,7 @@ chmod +x aslan_phishing.sh
 ### ▶️ Run Tool
 
 ![run](run.png)
+
 
 
 ## Requirements
