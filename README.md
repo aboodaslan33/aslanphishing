@@ -82,13 +82,13 @@ chmod +x aslan_phishing.sh
 ## 📸 Screenshots
 
 ### 📁 Change Directory
-![cd](cd.png)
+![cd](cd.jpg)
 
 ### ⚙️ Installation
-![ins](ins.png)
+![ins](ins.jpg)
 
 ### ▶️ Run Tool
-![run](run.png)
+![run](run.jpg)
 
 ## Requirements
 - Kali Linux / Debian
