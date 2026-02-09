@@ -79,20 +79,8 @@ chmod +x setup.sh
 chmod +x aslan_phishing.sh
 ./aslan_phishing.sh
 
-
-## 📸 Screenshots
-
-### 📁 Change Directory
-
-![cd](cd.png)
-
-### ⚙️ Installation
-
-![ins](ins.png)
-
-### ▶️ Run Tool
-
-![run](run.png)
+## 1
+<img width="438" height="86" alt="image" src="https://github.com/user-attachments/assets/925dd8b0-1fa6-449e-b043-5273df4128d1" />
 
 
 
