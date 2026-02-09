@@ -64,6 +64,8 @@ For full attribution and legal details, see **NOTICE.md**.
 This project exists to **teach defense, not to enable abuse**.
 
 ---
+<img width="451" height="56" alt="image" src="https://github.com/user-attachments/assets/2a6f1a4a-fe4f-4fb3-8c28-3aee30d7b155" />
+<img width="451" height="56" alt="image" src="https://github.com/user-attachments/assets/2a6f1a4a-fe4f-4fb3-8c28-3aee30d7b155" />
 
 ## 👤 Credits & Attribution
 
